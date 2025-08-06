@@ -15,4 +15,5 @@ My goal is to apply my deep understanding of networking to a defensive security 
 *This section will be updated as I complete labs.*
 
 ### CompTIA Security+ Study Notes
-*This section will be updated with key concepts.*
+
+[CompTIA Security+ Notes](CompTIA%20Security%20+)
