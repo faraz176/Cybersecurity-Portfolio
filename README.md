@@ -1,7 +1,7 @@
 # Cybersecurity-Portfolio
 
 
-# Faraz T's Cybersecurity Portfolio
+## Shuaib Ahmed Cybersecurity Portfolio
 
 Hello! I'm a **CCNA-certified Network Engineer** currently transitioning into the field of cybersecurity. This repository serves as a living document of my hands-on experience with various security tools and concepts through platforms like TryHackMe, Blue Team Labs Online, and personal projects.
 
