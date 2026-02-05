@@ -6,7 +6,9 @@
 ## Completed
 
 CCNA (Cisco Certified Network Associate)
+
 CompTIA Sec+ 
+
 Azure Cloud Fundamentals
 
 ## TBC (To Be Completed)
